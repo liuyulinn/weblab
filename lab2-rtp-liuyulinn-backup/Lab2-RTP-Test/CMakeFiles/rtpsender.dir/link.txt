@@ -1,0 +1,2 @@
+/usr/bin/ar qc librtpsender.a CMakeFiles/rtpsender.dir/src/sender_def.c.o
+/usr/bin/ranlib librtpsender.a

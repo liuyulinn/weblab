@@ -1,0 +1,2 @@
+/usr/bin/ar qc librtpreceiver.a CMakeFiles/rtpreceiver.dir/src/receiver_def.c.o
+/usr/bin/ranlib librtpreceiver.a
